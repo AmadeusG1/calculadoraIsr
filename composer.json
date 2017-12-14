@@ -1,0 +1,16 @@
+{
+    "name": "Acastillo/Calculadora_isr",
+    "description": "calduladora",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "license": "private",
+    "authors": [
+        {
+            "name": "acastillo",
+            "email": "rafael.castillo@cisacv.com.mx"
+        }
+    ],
+    "require": {},
+    "autoload": { "psr-4": { "Acastillo\\" : "src" } }
+}
